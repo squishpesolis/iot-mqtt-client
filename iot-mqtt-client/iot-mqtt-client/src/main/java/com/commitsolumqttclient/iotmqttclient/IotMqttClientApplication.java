@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class IotMqttClientApplication {
 
 	public static void main(String[] args) {
+		// CLiente
 		SpringApplication.run(IotMqttClientApplication.class, args);
 	}
 
